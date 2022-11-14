@@ -1,0 +1,15 @@
+.avatar{
+    width: 80px;
+    height: 80px;
+
+}
+.question{
+    border: 5px #4d5154;
+    margin-bottom: 20px;
+}
+.important-tag{
+    color: red;
+}
+.popular-tag{
+    size: 5ch;
+}
